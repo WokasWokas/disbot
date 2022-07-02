@@ -1,0 +1,20 @@
+#it's commented line
+
+#available_settings : ['log_path', 'filename', 'timeformat']
+
+#example : setting=value
+
+#default timeformat : %d.%m.%y~%H-%M-%S
+timeformat=%d.%m.%y~%H-%M-%S
+
+#default log_path : logs
+log_path=logs
+
+#default filename : {time}.log
+filename={time}.log
+
+#default loglevel : 1
+loglevel=1
+
+#token for bot
+token=OTg1MTY3NDQ3ODUyMTk5OTY2.GoVbT9.yleffMCzx1l7PNeANkteiMAV7LHZqzuwSiHUFA

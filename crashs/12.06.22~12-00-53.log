@@ -1,0 +1,4 @@
+12.06.22~12-00-53 (logger.log) [info] : Logger started!
+12.06.22~12-00-53 (logger.log) [info] : Changed log path to crashs
+12.06.22~12-00-53 (logger.log) [error] : Unknow log level 2
+12.06.22~12-00-53 (logger.log) [info] : Logger closing!

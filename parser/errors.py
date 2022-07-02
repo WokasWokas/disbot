@@ -1,0 +1,2 @@
+class SettingFileNotFound(Exception):
+    pass

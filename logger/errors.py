@@ -1,0 +1,2 @@
+class UnknowLoggerLevel(Exception):
+    pass
